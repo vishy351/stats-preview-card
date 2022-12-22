@@ -105,12 +105,12 @@ p {
     flex-direction: row;
     justify-content: space-between;
     margin-top: 40px;
-    width: 360px;
+    width: 346px;
   }
 
   .main-texts {
     padding: 25px 0;
-    width: 360px;
+    width: 350px;
   }
 
   h1 {
