@@ -19,7 +19,6 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  background-color: hsl(280, 97%, 30%);
   border-radius: 5px;
 }
 
@@ -28,9 +27,10 @@ body {
   background-position: bottom;
   background-repeat: no-repeat;
   background-size: cover;
+  background-color: hsl(277, 64%, 61%);
+  background-blend-mode: multiply;
   height: 250px;
   border-radius: 5px 5px 0 0;
-  opacity: 0.5;
 }
 
 .content-box {
